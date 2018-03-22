@@ -1,0 +1,4 @@
+name: AnimatedFrames
+version: 1.0-SNAPSHOT
+main: me.El_Chupe.animatedframes.AnimatedFrames
+depend: [PacketLib]
